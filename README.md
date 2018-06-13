@@ -16,3 +16,7 @@ And here's Googles PaaS variant
 https://cloud.google.com/blog/big-data/2017/11/using-apache-spark-with-tensorflow-on-google-cloud-platform
 
 https://github.com/GoogleCloudPlatform/cloud-dataproc/tree/master/spark-tensorflow
+
+Books on topic
+
+https://www.manning.com/books/spark-with-java
