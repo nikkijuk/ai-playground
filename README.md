@@ -3,7 +3,7 @@ Getting to know AI &amp; ML &amp; other latest buzzwords
 
 ## Spark?
 
-What does Spark here? Are Java & Scala dead languages at AI domain? Or is it possible to combine Tensorflow & Spark?
+What does Spark here? Are Java & Scala dead languages at AI domain? Or is it possible to combine Tensorflow & Spark? Get data movement and usage to battle tested platform and have Tensorflow as extension to give muscles to Spark.
 
 Here's what Yahoo has thought about it
 
