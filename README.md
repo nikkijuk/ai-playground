@@ -9,6 +9,12 @@ Getting to know AI &amp; ML &amp; other latest buzzwords
 “These parallels are close and striking enough to make it almost certain that, as in the earlier industrial revolutions, the main effects of the information revolution on the next society still lie ahead."
 - Peter Drucker, 2001
 
+## Promise of AI
+
+## Machine Learning as subfield of AI
+
+## Tensorflow
+
 ## Spark?
 
 What does Spark here? Are Java & Scala dead languages at AI domain? Or is it possible to combine Tensorflow & Spark? Get data movement and usage to battle tested platform and have Tensorflow as extension to give muscles to Spark.
