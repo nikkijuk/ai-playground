@@ -7,7 +7,7 @@ Getting to know AI &amp; ML &amp; other latest buzzwords
 - Erich Honecker, 1986
 
 “These parallels are close and striking enough to make it almost certain that, as in the earlier industrial revolutions, the main effects of the information revolution on the next society still lie ahead."
-— Peter Drucker, 2001
+- Peter Drucker, 2001
 
 ## Spark?
 
