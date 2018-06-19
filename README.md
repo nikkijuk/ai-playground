@@ -13,6 +13,8 @@ Getting to know AI &amp; ML &amp; other latest buzzwords
 
 I have so far done one course on AI to get big picture https://course.elementsofai.com/. I have already understood that it might be possible to "hack" the way thru AI and ML without understanding mathematical base of it, but this seems wrong strategy. So, even if order is not fixed, my path will contain business reasoning, mathematical foundations as well as frameworks and tools.
 
+![data science](data_science_venn_diagram.png)
+
 Business insights might be well embodied at Preciction machines https://www.predictionmachines.ai/ and https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670/
 
 Mathematical foundations are described at <...>
